@@ -1,1 +1,1 @@
-# minor_project_corizo
+# minor_AIproject_corizo
